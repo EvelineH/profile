@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@300;300;400;500&family=Open+Sans:wght@300;400;700');
+
 @media (max-width: 720px) {
   .container {
     width: 500px;
